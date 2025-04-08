@@ -1,81 +1,72 @@
 [
   {
-    "question": " A plane crashes on the border of the U.S. and Canada. Where do they bury the survivors?",
-    "img-url" : "https://raw.githubusercontent.com/demandingkangaroo/picture-quiz/refs/heads/main/PAW-PATROL_11zon.jpeg?token=GHSAT0AAAAAADAJMBMTKYE5DHXWFVDS5E7QZ6XOYIQ",
-    "options": ["The U.S", "Canada", "Nowhere", "In the ocean"],
-    "answer": "Nowhere"
+    "question": "Which number comes next in the series: 2, 5, 10, 17, 26, ___?",
+    "options": ["35", "37", "36", "40"],
+    "answer": "37"
   },
   {
-    "question": "What is the next number in the sequence: 2, 5, 10, 17, ___?",
-    "img-url" : "https://raw.githubusercontent.com/demandingkangaroo/picture-quiz/refs/heads/main/Gravity-Falls_11zon.jpeg?token=GHSAT0AAAAAADAJMBMSJW7ZXKVVD6LOQO2WZ6XOYTQ",
-    "options": ["24", "26", "30", "32"],
-    "answer": "26"
+    "question": "What is the missing number in the series: 3, 9, 27, 81, ___?",
+    "options": ["162", "243", "256", "225"],
+    "answer": "243"
   },
   {
-    "question": "How many months have 28 days?",
-    "img-url" : "https://raw.githubusercontent.com/demandingkangaroo/picture-quiz/refs/heads/main/atla_11zon.jpeg?token=GHSAT0AAAAAADAJMBMSDRQGVTLLB4LT3JOKZ6XOZDQ",
+    "question": "If it takes 5 men 5 days to build 5 houses, how many days would it take 100 men to build 100 houses?",
     "options": [
-      "1",
-      "12",
-      "2",
-      "28"
+      "5 days",
+      "10 days",
+      "100 days",
+      "50 days"
     ],
-    "answer": "12"
+    "answer": "5 days"
   },
   {
-    "question": "What comes once in a minute, twice in a moment, but never in a thousand years?",
-    "img-url" : "https://raw.githubusercontent.com/demandingkangaroo/picture-quiz/refs/heads/main/courage-the-cowardly-dog.jpeg?token=GHSAT0AAAAAADAJMBMTTZMJ7R5NJ3ORSET6Z6XOZOA",
+    "question": "Which of the following is the odd one out?",
     "options": [
-      "Nothing",
-      "The number 1",
-      "The letter E",
-      "The letter M"
+      "3",
+      "5",
+      "9",
+      "7"
     ],
-    "answer": "The letter M"
+    "answer": "9"
   },
   {
-    "question": "Which weighs more: a pound of feathers or a pound of bricks?",
-    "img-url" : "https://raw.githubusercontent.com/demandingkangaroo/picture-quiz/refs/heads/main/TMNT_11zon.jpeg?token=GHSAT0AAAAAADAJMBMSRJFTCAKD6SC6Z6MGZ6XOZ4A",
+    "question": "If two pencils cost 8 cents, how much do 10 pencils cost?",
     "options": [
-      "Neither",
-      "The bricks",
-      "The feathers ",
-      "They have different weights"
+      "40 cents",
+      "80 cents",
+      "4 cents",
+      "50 cents"
     ],
-    "answer": "Neither"
-  }
-  {
-    "question": "What comes next in the sequence: A, C, F, J, O, ___?",
-    "img-url" : "https://raw.githubusercontent.com/demandingkangaroo/picture-quiz/refs/heads/main/PAW-PATROL_11zon.jpeg?token=GHSAT0AAAAAADAJMBMTKYE5DHXWFVDS5E7QZ6XOYIQ",
-    "options": ["P", "Q", "T", "S"],
-    "answer": "P"
+    "answer": "40 cents"
   },
   {
-    "question": "If you rearrange the letters of the word "LISTEN," which word can you form?",
-    "img-url" : "https://raw.githubusercontent.com/demandingkangaroo/picture-quiz/refs/heads/main/Gravity-Falls_11zon.jpeg?token=GHSAT0AAAAAADAJMBMSJW7ZXKVVD6LOQO2WZ6XOYTQ",
-    "options": ["SLOVEN", "LIONS", "STOVE", "SILENT"],
-    "answer": "SILENT"
+    "question": "What is the next letter in the sequence: A, D, G, J, ___?",
+    "options": ["M", "K", "L", "H"],
+    "answer": "M"
   },
   {
-    "question": "Which of the following numbers does not belong in the sequence: 3, 5, 8, 12, 17, 23, ___?",
-    "img-url" : "https://raw.githubusercontent.com/demandingkangaroo/picture-quiz/refs/heads/main/atla_11zon.jpeg?token=GHSAT0AAAAAADAJMBMSDRQGVTLLB4LT3JOKZ6XOZDQ",
+    "question": "Which of the following is the odd one out?",
+    "options": ["Square", "Triangle", "Circle", "Rectangle"],
+    "answer": "Circle"
+  },
+  {
+    "question": "A farmer had 17 sheep. All but 9 died. How many sheep are left?",
     "options": [
-      "27",
-      "28",
-      "29",
+      "17",
+      "8",
+      "9",
+      "10"
+    ],
+    "answer": "9"
+  },
+  {
+    "question": "Which number completes the sequence: 1, 4, 9, 16, ___?",
+    "options": [
+      "25",
+      "18",
+      "20",
       "30"
     ],
-    "answer": "28"
-  },
-  {
-    "question": "What gets wetter as it dries?",
-    "img-url" : "https://raw.githubusercontent.com/demandingkangaroo/picture-quiz/refs/heads/main/courage-the-cowardly-dog.jpeg?token=GHSAT0AAAAAADAJMBMTTZMJ7R5NJ3ORSET6Z6XOZOA",
-    "options": [
-      "A shirt",
-      "A sponge",
-      "A raincoat",
-      "A towel
-    ],
-    "answer": "A towel"
-  },
+    "answer": "25"
+  }
 ]
