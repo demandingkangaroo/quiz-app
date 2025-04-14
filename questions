@@ -1,43 +1,43 @@
 [
   {
-    "question": "Which number comes next in the series: 2, 5, 10, 17, 26, ___?",
-    "options": ["35", "37", "36", "40"],
-    "answer": "37"
+    "question": "What aesthetic is this?",
+    "options": ["Dark Academia", "Cottagecore", "Y2K", "Minimalist"],
+    "answer": "Dark Academia"
   },
   {
-    "question": "What is the missing number in the series: 3, 9, 27, 81, ___?",
-    "options": ["162", "243", "256", "225"],
-    "answer": "243"
+    "question": "What aesthetic is this?",
+    "options": ["Y2K", "Grunge", "Clean Girl, "Baddie"],
+    "answer": "Y2K"
   },
   {
-    "question": "If it takes 5 men 5 days to build 5 houses, how many days would it take 100 men to build 100 houses?",
+    "question": What vibe is this?",
     "options": [
-      "5 days",
-      "10 days",
-      "100 days",
-      "50 days"
+      "Cottagecore",
+      "Fairycore",
+      "Barbiecore",
+      "Kidcore"
     ],
-    "answer": "5 days"
+    "answer": "Cottagecore"
   },
   {
-    "question": "Which of the following is the odd one out?",
+    "question": "This scene gives off...?",
     "options": [
-      "3",
-      "5",
-      "9",
-      "7"
+      "Cyberpunk",
+      "Dark Academia",
+      "Normcore",
+      "Baddie"
     ],
-    "answer": "9"
+    "answer": "Cyberpunk"
   },
   {
-    "question": "If two pencils cost 8 cents, how much do 10 pencils cost?",
+    "question": "What's the aesthetic?",
     "options": [
-      "40 cents",
-      "80 cents",
-      "4 cents",
-      "50 cents"
+      "Lofi",
+      "Weirdcore",
+      "Normcore",
+      "Royalcore"
     ],
-    "answer": "40 cents"
+    "answer": "Lofi"
   },
   {
     "question": "What is the next letter in the sequence: A, D, G, J, ___?",
