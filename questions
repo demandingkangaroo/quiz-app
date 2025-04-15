@@ -40,33 +40,33 @@
     "answer": "Lofi"
   },
   {
-    "question": "What is the next letter in the sequence: A, D, G, J, ___?",
-    "options": ["M", "K", "L", "H"],
-    "answer": "M"
+    "question": "What aesthetic is this?",
+    "options": ["Grunge", "Angelcore", "Preppy", "Kawaii"],
+    "answer": "Grunge"
   },
   {
-    "question": "Which of the following is the odd one out?",
-    "options": ["Square", "Triangle", "Circle", "Rectangle"],
-    "answer": "Circle"
+    "question": "The mood here is?",
+    "options": ["Cottagecore", "Goblincore", "Lofi", "Emo"],
+    "answer": "Cottagecore"
   },
   {
-    "question": "A farmer had 17 sheep. All but 9 died. How many sheep are left?",
+    "question": "What aesthetic?",
     "options": [
-      "17",
-      "8",
-      "9",
-      "10"
+      "Minimalist",
+      "Grunge",
+      "Y2K",
+      "Cluttercore"
     ],
-    "answer": "9"
+    "answer": "Minimalist"
   },
   {
-    "question": "Which number completes the sequence: 1, 4, 9, 16, ___?",
+    "question": "What aesthetic is this?",
     "options": [
-      "25",
-      "18",
-      "20",
-      "30"
+      "Vintage",
+      "Cyberpunk",
+      "Angelcore",
+      "Kidcore"
     ],
-    "answer": "25"
+    "answer": "Vintage"
   }
 ]
