@@ -6,11 +6,11 @@
   },
   {
     "question": "What aesthetic is this?",
-    "options": ["Y2K", "Grunge", "Clean Girl, "Baddie"],
+    "options": ["Y2K", "Grunge", "Clean Girl", "Baddie"],
     "answer": "Y2K"
   },
   {
-    "question": What vibe is this?",
+    "question": "What vibe is this?",
     "options": [
       "Cottagecore",
       "Fairycore",
