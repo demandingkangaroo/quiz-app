@@ -1,0 +1,72 @@
+[
+  {
+    "question": "Which of these desserts is not typically baked?",
+    "options": ["Cheesecake", "Brownie", "Ice Cream Cake", "Apple pie"],
+    "answer": "Ice Cream Cake"
+  },
+  {
+    "question": "Which dessert is known for being set on fire before serving?",
+    "options": ["Pavlova", "Crème Brûlée", "Baked Alaska", "Tiramisu"],
+    "answer": "Baked Alaska"
+  },
+  {
+    "question": "What’s the main difference between a tart and a pie?",
+    "options": [
+      "Shape",
+      "Color",
+      "Crust",
+      "Topping"
+    ],
+    "answer": "Crust"
+  },
+  {
+    "question": "Where is tiramisu from?",
+    "options": [
+      "Mongolia",
+      "America",
+      "France",
+      "Italy"
+    ],
+    "answer": "Italy"
+  },
+  {
+    "question": "Which of these is technically not a cake, even though it's in the name?",
+    "options": [
+      "Carrot cake",
+      "Pancake",
+      "Sponge cake",
+      "Angel food cake"
+    ],
+    "answer": "Pancake"
+  },
+  {
+    "question": "Which dessert sounds French but actually originated in the United States?",
+    "options": ["Croissant", "French toast", "Creme brulee", "Eclair"],
+    "answer": "French toast"
+  },
+  {
+    "question": "What gives red velvet cake its iconic red color traditionally?",
+    "options": ["Beet juice", "Food coloring", "Berries", "Red wine"],
+    "answer": "Beet juice"
+  },
+  {
+    "question": "Which country is believed to have invented ice cream (in some form)?",
+    "options": [
+      "France",
+      "China",
+      "USA",
+      "Italy"
+    ],
+    "answer": "China"
+  },
+  {
+    "question": "Which dessert is traditionally made using leftover bread?",
+    "options": [
+      "Bread pudding",
+      "Tiramisu",
+      "Eclair",
+      "Cobbler"
+    ],
+    "answer": "Bread pudding"
+  }
+]
