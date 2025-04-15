@@ -1,0 +1,72 @@
+[
+  {
+    "question": "Which player won the NBA MVP award for the 2022–2023 season?",
+    "options": ["Joel Embiid", "Nikola Jokić", "Giannis Antetokounmpo", "Luka Dončić"],
+    "answer": "Nikola Jokić"
+  },
+  {
+    "question": "Which team did Kobe Bryant spend his entire career with?",
+    "options": ["Chicago Bulls", "Los Angeles Clippers", "Los Angeles Lakers", "New York Knicks"],
+    "answer": "Los Angeles Lakers"
+  },
+  {
+    "question": "Who was the #1 overall pick in the 2003 NBA Draft?",
+    "options": [
+      "Dwyane Wade",
+      "Chris Bosh",
+      "LeBron James",
+      "Carmelo Anthony"
+    ],
+    "answer": "LeBron James"
+  },
+  {
+    "question": "Which NBA player is nicknamed The Greek Freak?",
+    "options": [
+      "Kristaps Porziņģis",
+      "Giannis Antetokounmpo",
+      "Domantas Sabonis",
+      "Luka Dončić"
+    ],
+    "answer": "Giannis Antetokounmpo"
+  },
+  {
+    "question": "Which franchise has the most NBA championships (as of 2024)?",
+    "options": [
+      "Chicago Bulls",
+      "Golden State Warriors",
+      "Boston Celtics",
+      "San Antonio Spurs"
+    ],
+    "answer": "Boston Celtics"
+  },
+  {
+    "question": "Which player made the iconic game-winning shot in the 2019 playoffs over the 76ers?",
+    "options": ["Kevin Durant", "Jimmy Butler", "Kawhi Leonard", "Damian Lillard"],
+    "answer": "Kawhi Leonard"
+  },
+  {
+    "question": "Which team drafted Luka Dončić before trading him to the Mavericks?",
+    "options": ["Atlanta Hawks", "Sacramento Kings", "Phoenix Suns", "Orlando Magic"],
+    "answer": "Atlanta Hawks"
+  },
+  {
+    "question": "Who is the all-time leader in assists in NBA history?",
+    "options": [
+      "Jason Kidd",
+      "Steve Nash",
+      "Magic Johnson",
+      "John Stockton"
+    ],
+    "answer": "John Stockton "
+  },
+  {
+    "question": "Which team did Shaquille O’Neal win his first NBA Championship with?",
+    "options": [
+      "Orlando Magic",
+      "Miami Heat",
+      "Los Angeles Lakers",
+      "Boston Celtics"
+    ],
+    "answer": "Los Angeles Lakers"
+  }
+]
