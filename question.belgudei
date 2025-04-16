@@ -1,0 +1,47 @@
+[
+  {
+    "question": "How long does an eagle live?",
+    "options": ["10 years", "20 years", "30 years", "50 years"],
+    "answer": "30 years"
+  },
+  {
+    "question": "Which of these birds are meat eater?",
+    "options": ["Falcon", "Pigeon", "Parrot", "Lorikeets"],
+    "answer": "Falcon"
+  },
+  {
+    "question": "Which bird produces egg that everyone eats?",
+    "options": ["Chicken", "Angry bird", "Falcon", "Parrot"],
+    "answer": "Chicken"
+  },
+  {
+    "question": "Fastest bird on earth?",
+    "options": ["Budgerigar", "Peregrine falcon", "Crow", "Barn owl"],
+    "answer": "Peregrine falcon"
+  },
+  {
+    "question": "Which bird is known for mimicking human speech?",
+    "options": ["Sparrow", "Parrot", "Owl", "Flamingo"],
+    "answer": "Parrot"
+  },
+  {
+    "question": "What do birds use to fly?",
+    "options": ["Teeth", "Fins", "Wings", "Legs"],
+    "answer": "Wings"
+  },
+  {
+    "question": "Biggest bird on planet earth?",
+    "options": ["Ostrich", "Falcon", "Hawk", "Chicken"],
+    "answer": "Ostrich"
+  },
+  {
+    "question": "Which bird has a night vision?",
+    "options": ["Hawk", "Grey parrot", "Owl", "Pigeon"],
+    "answer": "Owl"
+  },
+  {
+    "question": "Smartest bird on planet is...",
+    "options": ["Lovebird", "Canary", "Finch", "African grey parrot"],
+    "answer": "African grey parrot"
+  }
+]
