@@ -1,46 +1,55 @@
 [
   {
     "question": "How long does an eagle live?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/1b.jpeg",
     "options": ["10 years", "20 years", "30 years", "50 years"],
     "answer": "30 years"
   },
   {
     "question": "Which of these birds are meat eater?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/2b.jpeg",
     "options": ["Falcon", "Pigeon", "Parrot", "Lorikeets"],
     "answer": "Falcon"
   },
   {
     "question": "Which bird produces egg that everyone eats?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/3b.jpeg",
     "options": ["Chicken", "Angry bird", "Falcon", "Parrot"],
     "answer": "Chicken"
   },
   {
     "question": "Fastest bird on earth?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/4b.jpeg",
     "options": ["Budgerigar", "Peregrine falcon", "Crow", "Barn owl"],
     "answer": "Peregrine falcon"
   },
   {
     "question": "Which bird is known for mimicking human speech?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/5b.jpeg",
     "options": ["Sparrow", "Parrot", "Owl", "Flamingo"],
     "answer": "Parrot"
   },
   {
     "question": "What do birds use to fly?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/6b.jpeg",
     "options": ["Teeth", "Fins", "Wings", "Legs"],
     "answer": "Wings"
   },
   {
     "question": "Biggest bird on planet earth?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/7b.jpeg",
     "options": ["Ostrich", "Falcon", "Hawk", "Chicken"],
     "answer": "Ostrich"
   },
   {
     "question": "Which bird has a night vision?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/8b.jpeg",
     "options": ["Hawk", "Grey parrot", "Owl", "Pigeon"],
     "answer": "Owl"
   },
   {
     "question": "Smartest bird on planet is...",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/9b.jpeg",
     "options": ["Lovebird", "Canary", "Finch", "African grey parrot"],
     "answer": "African grey parrot"
   }
