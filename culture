@@ -1,16 +1,19 @@
 [
   {
     "question": "What aesthetic is this?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/1.jpeg",
     "options": ["Dark Academia", "Cottagecore", "Y2K", "Minimalist"],
     "answer": "Dark Academia"
   },
   {
     "question": "What aesthetic is this?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/2.jpeg",
     "options": ["Y2K", "Grunge", "Clean Girl", "Baddie"],
     "answer": "Y2K"
   },
   {
     "question": "What vibe is this?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/3.jpeg",
     "options": [
       "Cottagecore",
       "Fairycore",
@@ -21,6 +24,7 @@
   },
   {
     "question": "This scene gives off...?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/4.jpeg",
     "options": [
       "Cyberpunk",
       "Dark Academia",
@@ -31,6 +35,7 @@
   },
   {
     "question": "What's the aesthetic?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/5.jpeg",
     "options": [
       "Lofi",
       "Weirdcore",
@@ -41,16 +46,19 @@
   },
   {
     "question": "What aesthetic is this?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/6.jpeg",
     "options": ["Grunge", "Angelcore", "Preppy", "Kawaii"],
     "answer": "Grunge"
   },
   {
     "question": "The mood here is?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/7.jpeg",
     "options": ["Cottagecore", "Goblincore", "Lofi", "Emo"],
     "answer": "Cottagecore"
   },
   {
     "question": "What aesthetic?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/8.jpeg",
     "options": [
       "Minimalist",
       "Grunge",
@@ -61,6 +69,7 @@
   },
   {
     "question": "What aesthetic is this?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/9.jpeg",
     "options": [
       "Vintage",
       "Cyberpunk",
