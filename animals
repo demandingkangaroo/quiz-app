@@ -1,0 +1,81 @@
+[
+  {
+    "question": "Which of these desserts is not typically baked?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/1m.jpeg",
+    "options": ["Cheesecake", "Brownie", "Ice Cream Cake", "Apple pie"],
+    "answer": "Ice Cream Cake"
+  },
+  {
+    "question": "Which dessert is known for being set on fire before serving?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/2m.jpeg",
+    "options": ["Pavlova", "Crème Brûlée", "Baked Alaska", "Tiramisu"],
+    "answer": "Baked Alaska"
+  },
+  {
+    "question": "What’s the main difference between a tart and a pie?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/3m.jpeg",
+    "options": [
+      "Shape",
+      "Color",
+      "Crust",
+      "Topping"
+    ],
+    "answer": "Crust"
+  },
+  {
+    "question": "Where is tiramisu from?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/4m.jpeg",
+    "options": [
+      "Mongolia",
+      "America",
+      "France",
+      "Italy"
+    ],
+    "answer": "Italy"
+  },
+  {
+    "question": "Which of these is technically not a cake, even though it's in the name?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/5m.jpeg",
+    "options": [
+      "Carrot cake",
+      "Pancake",
+      "Sponge cake",
+      "Angel food cake"
+    ],
+    "answer": "Pancake"
+  },
+  {
+    "question": "Which dessert sounds French but actually originated in the United States?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/6m.jpeg",
+    "options": ["Croissant", "French toast", "Creme brulee", "Eclair"],
+    "answer": "French toast"
+  },
+  {
+    "question": "What gives red velvet cake its iconic red color traditionally?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/7m.jpeg",
+    "options": ["Beet juice", "Food coloring", "Berries", "Red wine"],
+    "answer": "Beet juice"
+  },
+  {
+    "question": "Which country is believed to have invented ice cream (in some form)?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/8m.jpeg",
+    "options": [
+      "France",
+      "China",
+      "USA",
+      "Italy"
+    ],
+    "answer": "China"
+  },
+  {
+    "question": "Which dessert is traditionally made using leftover bread?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/9m.jpeg",
+    "options": [
+      "Bread pudding",
+      "Tiramisu",
+      "Eclair",
+      "Cobbler"
+    ],
+    "answer": "Bread pudding"
+  }
+]
