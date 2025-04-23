@@ -1,46 +1,55 @@
 [
   {
     "question": "Энэ ямар амьтан бэ?",
+    "img_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/animals1.jpeg",
     "options": ["Нохой", "Муур", "Яст мэлхий", "Хавч"],
     "correct_answer": "Муур"
   },
   {
     "question": "Энэ ямар амьтан бэ?",
+    "img_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/animals2.jpeg",
     "options": ["Нохой", "Муур", "Яст мэлхий", "Хавч"],
     "correct_answer": "Хавч"
   },
   {
     "question": "Энэ ямар амьтан бэ?",
+    "img_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/animals3.jpeg",
     "options": ["Бүргэд", "Муур", "Тоть", "Тагтаа"],
     "correct_answer": "Бүргэд"
   },
   {
     "question": "Энэ ямар амьтан бэ?",
+    "img_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/animals4.jpeg",
     "options": ["Шоргоолж", "Зөгий", "Цох", "Эрдэнэ шиш"],
     "correct_answer": "Цох"
   },
   {
     "question": "Энэ ямар амьтан бэ?",
+    "img_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/animals5.jpeg",
     "options": ["Хонь", "Буга", "Хандгай", "Буффало"],
     "correct_answer": "Буффало"
   },
   {
     "question": "Энэ ямар амьтан бэ?",
+    "img_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/animals6.jpeg",
     "options": ["Альпака", "Үхэр", "Тахиа", "Ямаа"],
     "correct_answer": "Ямаа"
   },
   {
     "question": "Энэ ямар амьтан бэ?",
+    "img_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/animals7.jpeg",
     "options": ["Могой", "Бар", "Хусах", "Хар хэрээ"],
     "correct_answer": "Бар"
   },
   {
     "question": "Энэ ямар амьтан бэ?",
+    "img_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/animals8.jpeg",
     "options": ["Хулгана (том)", "Туулай", "Хулгана (жижиг)", "Загас"],
     "correct_answer": "Туулай"
   },
   {
     "question": "Энэ ямар амьтан бэ?",
+    "img_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/animals9.jpeg",
     "options": ["Фламинго", "Бургас", "Тэнгисийн цахлай", "Үнэг"],
     "correct_answer": "Фламинго"
   }
