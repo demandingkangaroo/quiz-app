@@ -1,81 +1,56 @@
 [
   {
-    "question": "What aesthetic is this?",
-    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/1.jpeg",
-    "options": ["Dark Academia", "Cottagecore", "Y2K", "Minimalist"],
-    "answer": "Dark Academia"
+    "question": "Which country's flag is this?",
+    "img_url": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg",
+    "options": ["United Kingdom", "Australia", "United States", "Canada"],
+    "answer": "United States"
   },
   {
-    "question": "What aesthetic is this?",
-    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/2.jpeg",
-    "options": ["Y2K", "Grunge", "Clean Girl", "Baddie"],
-    "answer": "Y2K"
+    "question": "Which country's flag is this?",
+    "img_url": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+    "options": ["Italy", "Netherlands", "France", "Russia"],
+    "answer": "France"
   },
   {
-    "question": "What vibe is this?",
-    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/3.jpeg",
-    "options": [
-      "Cottagecore",
-      "Fairycore",
-      "Barbiecore",
-      "Kidcore"
-    ],
-    "answer": "Cottagecore"
+    "question": "Which country's flag is this?",
+    "img_url": "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg",
+    "options": ["Argentina", "Brazil", "Mexico", "Colombia"],
+    "answer": "Brazil"
   },
   {
-    "question": "This scene gives off...?",
-    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/4.jpeg",
-    "options": [
-      "Cyberpunk",
-      "Dark Academia",
-      "Normcore",
-      "Baddie"
-    ],
-    "answer": "Cyberpunk"
+    "question": "Which country's flag is this?",
+    "img_url": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg",
+    "options": ["Serbia", "Slovakia", "Russia", "Croatia"],
+    "answer": "Russia"
   },
   {
-    "question": "What's the aesthetic?",
-    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/5.jpeg",
-    "options": [
-      "Lofi",
-      "Weirdcore",
-      "Normcore",
-      "Royalcore"
-    ],
-    "answer": "Lofi"
+    "question": "Which country's flag is this?",
+    "img_url": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg",
+    "options": ["India", "Bangladesh", "Pakistan", "Nepal"],
+    "answer": "India"
   },
   {
-    "question": "What aesthetic is this?",
-    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/6.jpeg",
-    "options": ["Grunge", "Angelcore", "Preppy", "Kawaii"],
-    "answer": "Grunge"
+    "question": "Which country's flag is this?",
+    "img_url": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg",
+    "options": ["Italy", "Ireland", "Mexico", "France"],
+    "answer": "Italy"
   },
   {
-    "question": "The mood here is?",
-    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/7.jpeg",
-    "options": ["Cottagecore", "Goblincore", "Lofi", "Emo"],
-    "answer": "Cottagecore"
+    "question": "Which country's flag is this?",
+    "img_url": "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg",
+    "options": ["Belgium", "Germany", "Austria", "Netherlands"],
+    "answer": "Germany"
   },
   {
-    "question": "What aesthetic?",
-    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/8.jpeg",
-    "options": [
-      "Minimalist",
-      "Grunge",
-      "Y2K",
-      "Cluttercore"
-    ],
-    "answer": "Minimalist"
+    "question": "Which country's flag is this?",
+    "img_url": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg",
+    "options": ["China", "Japan", "South Korea", "Vietnam"],
+    "answer": "Japan"
   },
   {
-    "question": "What aesthetic is this?",
-    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/9.jpeg",
-    "options": [
-      "Vintage",
-      "Cyberpunk",
-      "Angelcore",
-      "Kidcore"
-    ],
-    "answer": "Vintage"
+    "question": "Which country's flag is this?",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Mongolia.svg",
+    "options": ["Mongolia", "Kazakhstan", "China", "Thailand"],
+    "answer": "Mongolia"
   }
 ]
