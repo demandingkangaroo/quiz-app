@@ -31,25 +31,25 @@
   },
   {
     "question": "Энэ ямар амьтан бэ?",
-    "image_url": "https://example.com/peacock_spider.jpg",
+    "image_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/animals6.jpeg",
     "options": ["Нум нуруут аалз", "Нарны аалз", "Хар аалз", "Цагаан аалз"],
     "correct_answer": "Нум нуруут аалз"
   },
   {
     "question": "Энэ ямар амьтан бэ?",
-    "image_url": "https://example.com/star_nosed_mole.jpg",
+    "image_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/animals7.jpeg",
     "options": ["Сохор номин", "Тарвага", "Хулгана", "Зурам"],
     "correct_answer": "Сохор номин"
   },
   {
     "question": "Энэ ямар амьтан бэ?",
-    "image_url": "https://example.com/snapping_shrimp.jpg",
+    "image_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/animals8.jpeg",
     "options": ["Сам хорхой", "Далайн хав", "Загас", "Хавч"],
     "correct_answer": "Сам хорхой"
   },
   {
     "question": "Энэ юу вэ?",
-    "image_url": "https://example.com/leaf_insect.jpg",
+    "image_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/animals9.jpeg",
     "options": ["Навчин шавьж", "Царцаа", "Ялаа", "Навч"],
     "correct_answer": "Навчин шавьж"
   }
