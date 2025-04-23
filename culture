@@ -1,56 +1,56 @@
 [
   {
-    "question": "Which country's flag is this?",
-    "img_url": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg",
-    "options": ["United Kingdom", "Australia", "United States", "Canada"],
-    "answer": "United States"
+    "question": "Энэ аль улсын далбаа вэ?",
+    "img_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/culture1.jpeg,
+    "options": ["Их Британи", "Австрали", "АНУ", "Канад"],
+    "answer": "АНУ"
   },
   {
-    "question": "Which country's flag is this?",
-    "img_url": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
-    "options": ["Italy", "Netherlands", "France", "Russia"],
-    "answer": "France"
+    "question": "Энэ аль улсын далбаа вэ?",
+    "img_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/culture2.jpeg",
+    "options": ["Итали", "Нидерланд", "Франц", "ОХУ"],
+    "answer": "Франц"
   },
   {
-    "question": "Which country's flag is this?",
-    "img_url": "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg",
-    "options": ["Argentina", "Brazil", "Mexico", "Colombia"],
-    "answer": "Brazil"
+    "question": "Энэ аль улсын далбаа вэ?",
+    "img_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/culture3.jpeg",
+    "options": ["Аргентин", "Бразил", "Мексик", "Колумб"],
+    "answer": "Бразил"
   },
   {
-    "question": "Which country's flag is this?",
-    "img_url": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg",
-    "options": ["Serbia", "Slovakia", "Russia", "Croatia"],
-    "answer": "Russia"
+    "question": "Энэ аль улсын далбаа вэ?",
+    "img_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/culture4.jpeg",
+    "options": ["Серби", "Словак", "ОХУ", "Хорват"],
+    "answer": "ОХУ"
   },
   {
-    "question": "Which country's flag is this?",
-    "img_url": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg",
-    "options": ["India", "Bangladesh", "Pakistan", "Nepal"],
-    "answer": "India"
+    "question": "Энэ аль улсын далбаа вэ?",
+    "img_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/culture5.jpeg",
+    "options": ["Энэтхэг", "Бангладеш", "Пакистан", "Непал"],
+    "answer": "Энэтхэг"
   },
   {
-    "question": "Which country's flag is this?",
-    "img_url": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg",
-    "options": ["Italy", "Ireland", "Mexico", "France"],
-    "answer": "Italy"
+    "question": "Энэ аль улсын далбаа вэ?",
+    "img_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/culture6.jpeg",
+    "options": ["Итали", "Ирланд", "Мексик", "Франц"],
+    "answer": "Итали"
   },
   {
-    "question": "Which country's flag is this?",
-    "img_url": "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg",
-    "options": ["Belgium", "Germany", "Austria", "Netherlands"],
-    "answer": "Germany"
+    "question": "Энэ аль улсын далбаа вэ?",
+    "img_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/culture7.jpeg",
+    "options": ["Бельги", "Герман", "Австри", "Нидерланд"],
+    "answer": "Герман"
   },
   {
-    "question": "Which country's flag is this?",
-    "img_url": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg",
-    "options": ["China", "Japan", "South Korea", "Vietnam"],
-    "answer": "Japan"
+    "question": "Энэ аль улсын далбаа вэ?",
+    "img_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/culture8.jpeg",
+    "options": ["Хятад", "Япон", "Өмнөд Солонгос", "Вьетнам"],
+    "answer": "Япон"
   },
   {
-    "question": "Which country's flag is this?",
-    "img_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Mongolia.svg",
-    "options": ["Mongolia", "Kazakhstan", "China", "Thailand"],
-    "answer": "Mongolia"
+    "question": "Энэ аль улсын далбаа вэ?",
+    "img_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/culture9.jpeg",
+    "options": ["Монгол", "Казахстан", "Хятад", "Тайланд"],
+    "answer": "Монгол"
   }
 ]
