@@ -27,7 +27,7 @@
     "question": "Энэ ямар амттан бэ?",
     "img_url": "https://example.com/toson-boov.jpg",
     "options": ["Мөхөөлдөс", "Тосон боов", "Хийжүүлсэн бялуу", "Шоколадан кекс"],
-    "correct_answer": "Тосон боов"
+    "correct_answer": "Хэвийн боов"
   },
   {
     "question": "Энэ ямар хоол вэ?",
