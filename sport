@@ -1,81 +1,56 @@
 [
   {
-    "question": "Which player won the NBA MVP award for the 2022–2023 season?",
-    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/1g.jpeg",
-    "options": ["Joel Embiid", "Nikola Jokić", "Giannis Antetokounmpo", "Luka Dončić"],
-    "answer": "Nikola Jokić"
-  },
-  {
     "question": "Which team did Kobe Bryant spend his entire career with?",
-    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/2g.jpeg",
+    "img_url": "https://example.com/kobe_lakers.jpg",
     "options": ["Chicago Bulls", "Los Angeles Clippers", "Los Angeles Lakers", "New York Knicks"],
     "answer": "Los Angeles Lakers"
   },
   {
-    "question": "Who was the #1 overall pick in the 2003 NBA Draft?",
-    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/3g.jpeg",
-    "options": [
-      "Dwyane Wade",
-      "Chris Bosh",
-      "LeBron James",
-      "Carmelo Anthony"
-    ],
-    "answer": "LeBron James"
-  },
-  {
-    "question": "Which NBA player is nicknamed The Greek Freak?",
-    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/4g.jpeg",
-    "options": [
-      "Kristaps Porziņģis",
-      "Giannis Antetokounmpo",
-      "Domantas Sabonis",
-      "Luka Dončić"
-    ],
+    "question": "Which NBA player is nicknamed \"The Greek Freak\"?",
+    "img_url": "https://example.com/giannis.jpg",
+    "options": ["Kristaps Porziņģis", "Giannis Antetokounmpo", "Domantas Sabonis", "Luka Dončić"],
     "answer": "Giannis Antetokounmpo"
   },
   {
-    "question": "Which franchise has the most NBA championships (as of 2024)?",
-    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/5g.jpeg",
-    "options": [
-      "Chicago Bulls",
-      "Golden State Warriors",
-      "Boston Celtics",
-      "San Antonio Spurs"
-    ],
-    "answer": "Boston Celtics"
-  },
-  {
-    "question": "Which player made the iconic game-winning shot in the 2019 playoffs over the 76ers?",
-    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/6g.jpeg",
-    "options": ["Kevin Durant", "Jimmy Butler", "Kawhi Leonard", "Damian Lillard"],
-    "answer": "Kawhi Leonard"
-  },
-  {
     "question": "Which team drafted Luka Dončić before trading him to the Mavericks?",
-    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/7g.jpeg",
+    "img_url": "https://example.com/luka_draft.jpg",
     "options": ["Atlanta Hawks", "Sacramento Kings", "Phoenix Suns", "Orlando Magic"],
     "answer": "Atlanta Hawks"
   },
   {
-    "question": "Who is the all-time leader in assists in NBA history?",
-    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/8g.jpeg",
-    "options": [
-      "Jason Kidd",
-      "Steve Nash",
-      "Magic Johnson",
-      "John Stockton"
-    ],
-    "answer": "John Stockton "
+    "question": "Who is famous for wearing the number 23 jersey for the Chicago Bulls?",
+    "img_url": "https://example.com/mj_23.jpg",
+    "options": ["LeBron James", "Kobe Bryant", "Michael Jordan", "Kevin Durant"],
+    "answer": "Michael Jordan"
   },
   {
-    "question": "Which team did Shaquille O’Neal win his first NBA Championship with?",
-    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/9g.jpeg",
-    "options": [
-      "Orlando Magic",
-      "Miami Heat",
-      "Los Angeles Lakers",
-      "Boston Celtics"
-    ],
+    "question": "What is the name of the team from Los Angeles with purple and gold colors?",
+    "img_url": "https://example.com/lakers_colors.jpg",
+    "options": ["Chicago Bulls", "Miami Heat", "Los Angeles Lakers", "New York Knicks"],
     "answer": "Los Angeles Lakers"
+  },
+  {
+    "question": "How many championships did Michael Jordan win?",
+    "img_url": "https://example.com/jordan_championships.jpg",
+    "options": ["5", "7", "6", "4"],
+    "answer": "6"
+  },
+  {
+    "question": "What team does Giannis Antetokounmpo play for?",
+    "img_url": "https://example.com/giannis_bucks.jpg",
+    "options": ["Miami Heat", "Boston Celtics", "Milwaukee Bucks", "Denver Nuggets"],
+    "answer": "Milwaukee Bucks"
+  },
+  {
+    "question": "What number does Stephen Curry usually wear?",
+    "img_url": "https://example.com/curry_jersey.jpg",
+    "options": ["6", "11", "30", "3"],
+    "answer": "30"
+  },
+  {
+    "question": "Which player is known as “The Black Mamba”?",
+    "img_url": "https://example.com/kobe_blackmamba.jpg",
+    "options": ["Michael Jordan", "Kobe Bryant", "Allen Iverson", "Tracy McGrady"],
+    "answer": "Kobe Bryant"
   }
 ]
