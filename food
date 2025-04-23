@@ -1,81 +1,56 @@
 [
   {
-    "question": "Which of these desserts is not typically baked?",
-    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/1m.jpeg",
-    "options": ["Cheesecake", "Brownie", "Ice Cream Cake", "Apple pie"],
-    "answer": "Ice Cream Cake"
+    "question": "Энэ ямар хоол вэ?",
+    "img_url": "https://example.com/buudai.jpg",
+    "options": ["Гуляш", "Будаатай хуурга", "Бууз", "Цуйван"],
+    "correct_answer": "Будаатай хуурга"
   },
   {
-    "question": "Which dessert is known for being set on fire before serving?",
-    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/2m.jpeg",
-    "options": ["Pavlova", "Crème Brûlée", "Baked Alaska", "Tiramisu"],
-    "answer": "Baked Alaska"
+    "question": "Энэ ямар Монгол амттан бэ?",
+    "img_url": "https://example.com/boortsog.jpg",
+    "options": ["Боорцог", "Царцдас", "Хэвийн боов", "Шарах жигнэмэг"],
+    "correct_answer": "Боорцог"
   },
   {
-    "question": "What’s the main difference between a tart and a pie?",
-    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/3m.jpeg",
-    "options": [
-      "Shape",
-      "Color",
-      "Crust",
-      "Topping"
-    ],
-    "answer": "Crust"
+    "question": "Энэ ямар хоол вэ?",
+    "img_url": "https://example.com/tsuivan.jpg",
+    "options": ["Шарсан мах", "Цуйван", "Салад", "Тахианы мах"],
+    "correct_answer": "Цуйван"
   },
   {
-    "question": "Where is tiramisu from?",
-    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/4m.jpeg",
-    "options": [
-      "Mongolia",
-      "America",
-      "France",
-      "Italy"
-    ],
-    "answer": "Italy"
+    "question": "Энэ ямар Монгол хоол вэ?",
+    "img_url": "https://example.com/banshtai-tsai.jpg",
+    "options": ["Сүүтэй цай", "Банштай цай", "Шөлтэй бууз", "Хорхог"],
+    "correct_answer": "Банштай цай"
   },
   {
-    "question": "Which of these is technically not a cake, even though it's in the name?",
-    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/5m.jpeg",
-    "options": [
-      "Carrot cake",
-      "Pancake",
-      "Sponge cake",
-      "Angel food cake"
-    ],
-    "answer": "Pancake"
+    "question": "Энэ ямар амттан бэ?",
+    "img_url": "https://example.com/toson-boov.jpg",
+    "options": ["Мөхөөлдөс", "Тосон боов", "Хийжүүлсэн бялуу", "Шоколадан кекс"],
+    "correct_answer": "Тосон боов"
   },
   {
-    "question": "Which dessert sounds French but actually originated in the United States?",
-    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/6m.jpeg",
-    "options": ["Croissant", "French toast", "Creme brulee", "Eclair"],
-    "answer": "French toast"
+    "question": "Энэ ямар хоол вэ?",
+    "img_url": "https://example.com/khorkhog.jpg",
+    "options": ["Хорхог", "Шарсан банш", "Бууз", "Тогооны мах"],
+    "correct_answer": "Хорхог"
   },
   {
-    "question": "What gives red velvet cake its iconic red color traditionally?",
-    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/7m.jpeg",
-    "options": ["Beet juice", "Food coloring", "Berries", "Red wine"],
-    "answer": "Beet juice"
+    "question": "Энэ ямар хоол вэ?",
+    "img_url": "https://example.com/huushuur.jpg",
+    "options": ["Хуушуур", "Бууз", "Банш", "Пирошки"],
+    "correct_answer": "Хуушуур"
   },
   {
-    "question": "Which country is believed to have invented ice cream (in some form)?",
-    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/8m.jpeg",
-    "options": [
-      "France",
-      "China",
-      "USA",
-      "Italy"
-    ],
-    "answer": "China"
+    "question": "Энэ ямар амттан бэ?",
+    "img_url": "https://example.com/aaruul.jpg",
+    "options": ["Аарц", "Ааруул", "Зайрмаг", "Бяслаг"],
+    "correct_answer": "Ааруул"
   },
   {
-    "question": "Which dessert is traditionally made using leftover bread?",
-    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/9m.jpeg",
-    "options": [
-      "Bread pudding",
-      "Tiramisu",
-      "Eclair",
-      "Cobbler"
-    ],
-    "answer": "Bread pudding"
+    "question": "Энэ ямар Монгол хоол вэ?",
+    "img_url": "https://example.com/tsagaan-suud.jpg",
+    "options": ["Цагаан идээ", "Хөөрүүлсэн сүү", "Тараг", "Ингэний хоормог"],
+    "correct_answer": "Цагаан идээ"
   }
 ]
