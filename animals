@@ -1,56 +1,47 @@
 [
   {
     "question": "Энэ ямар амьтан бэ?",
-    "image_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/animals1.jpeg",
-    "options": ["Жигүүрт сарьсан багваахай", "Бүргэд", "Шувуун хоншоорт сарьсан багваахай", "Тоть"],
-    "correct_answer": "Жигүүрт сарьсан багваахай"
+    "options": ["Нохой", "Муур", "Яст мэлхий", "Хавч"],
+    "correct_answer": "Муур"
   },
   {
     "question": "Энэ ямар амьтан бэ?",
-    "image_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/animals2.jpeg",
-    "options": ["Аксолотль", "Загас", "Гүрвэл", "Өвөлжөөт мэлхий"],
-    "correct_answer": "Аксолотль"
+    "options": ["Нохой", "Муур", "Яст мэлхий", "Хавч"],
+    "correct_answer": "Хавч"
   },
   {
     "question": "Энэ ямар амьтан бэ?",
-    "image_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/animals3.jpeg",
-    "options": ["Шилэн мэлхий", "Навчин мэлхий", "Усан мэлхий", "Мэлхий"],
-    "correct_answer": "Шилэн мэлхий"
+    "options": ["Бүргэд", "Муур", "Тоть", "Тагтаа"],
+    "correct_answer": "Бүргэд"
   },
   {
     "question": "Энэ ямар амьтан бэ?",
-    "image_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/animals4.jpeg",
-    "options": ["Жанус муур", "Тахианы зулзага", "Сиам муур", "Шар муур"],
-    "correct_answer": "Жанус муур"
+    "options": ["Шоргоолж", "Зөгий", "Цох", "Эрдэнэ шиш"],
+    "correct_answer": "Цох"
   },
   {
     "question": "Энэ ямар амьтан бэ?",
-    "image_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/animals5.jpeg",
-    "options": ["Наймаалж", "Далайн од", "Далайн морь", "Туна загас"],
-    "correct_answer": "Наймаалж"
+    "options": ["Хонь", "Буга", "Хандгай", "Буффало"],
+    "correct_answer": "Буффало"
   },
   {
     "question": "Энэ ямар амьтан бэ?",
-    "image_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/animals6.jpeg",
-    "options": ["Нум нуруут аалз", "Нарны аалз", "Хар аалз", "Цагаан аалз"],
-    "correct_answer": "Нум нуруут аалз"
+    "options": ["Альпака", "Үхэр", "Тахиа", "Ямаа"],
+    "correct_answer": "Ямаа"
   },
   {
     "question": "Энэ ямар амьтан бэ?",
-    "image_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/animals7.jpeg",
-    "options": ["Сохор номин", "Тарвага", "Хулгана", "Зурам"],
-    "correct_answer": "Сохор номин"
+    "options": ["Могой", "Бар", "Хусах", "Хар хэрээ"],
+    "correct_answer": "Бар"
   },
   {
     "question": "Энэ ямар амьтан бэ?",
-    "image_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/animals8.jpeg",
-    "options": ["Сам хорхой", "Далайн хав", "Загас", "Хавч"],
-    "correct_answer": "Сам хорхой"
+    "options": ["Хулгана (том)", "Туулай", "Хулгана (жижиг)", "Загас"],
+    "correct_answer": "Туулай"
   },
   {
-    "question": "Энэ юу вэ?",
-    "image_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/animals9.jpeg",
-    "options": ["Навчин шавьж", "Царцаа", "Ялаа", "Навч"],
-    "correct_answer": "Навчин шавьж"
+    "question": "Энэ ямар амьтан бэ?",
+    "options": ["Фламинго", "Бургас", "Тэнгисийн цахлай", "Үнэг"],
+    "correct_answer": "Фламинго"
   }
 ]
