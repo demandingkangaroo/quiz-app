@@ -1,55 +1,55 @@
 [
   {
     "question": "Энэ ямар хоол вэ?",
-    "img_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/food1.jpeg",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/food1.jpeg",
     "options": ["Гуляш", "Будаатай хуурга", "Бууз", "Цуйван"],
     "answer": "Будаатай хуурга"
   },
   {
     "question": "Энэ ямар Монгол амттан бэ?",
-    "img_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/food2.jpeg",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/food2.jpeg",
     "options": ["Боорцог", "Царцдас", "Хэвийн боов", "Шарах жигнэмэг"],
     "answer": "Боорцог"
   },
   {
     "question": "Энэ ямар хоол вэ?",
-    "img_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/food3.jpeg",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/food3.jpeg",
     "options": ["Шарсан мах", "Цуйван", "Салад", "Тахианы мах"],
     "answer": "Цуйван"
   },
   {
     "question": "Энэ ямар Монгол хоол вэ?",
-    "img_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/food4.jpeg",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/food4.jpeg",
     "options": ["Сүүтэй цай", "Банштай цай", "Шөлтэй бууз", "Хорхог"],
     "answer": "Банштай цай"
   },
   {
     "question": "Энэ ямар амттан бэ?",
-    "img_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/food5.jpeg",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/food5.jpeg",
     "options": ["Мөхөөлдөс", "Тосон боов", "Хийжүүлсэн бялуу", "Шоколадан кекс"],
     "answer": "Хэвийн боов"
   },
   {
     "question": "Энэ ямар хоол вэ?",
-    "img_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/food6.jpeg",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/food6.jpeg",
     "options": ["Хорхог", "Шарсан банш", "Бууз", "Тогооны мах"],
     "answer": "Хорхог"
   },
   {
     "question": "Энэ ямар хоол вэ?",
-    "img_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/food7.jpeg",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/food7.jpeg",
     "options": ["Хуушуур", "Бууз", "Банш", "Пирошки"],
     "answer": "Хуушуур"
   },
   {
     "question": "Энэ ямар амттан бэ?",
-    "img_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/food8.jpeg",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/food8.jpeg",
     "options": ["Аарц", "Ааруул", "Зайрмаг", "Бяслаг"],
     "answer": "Ааруул"
   },
   {
     "question": "Энэ ямар Монгол хоол вэ?",
-    "img_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/food9.jpeg",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/food9.jpeg",
     "options": ["Цагаан идээ", "Хөөрүүлсэн сүү", "Тараг", "Ингэний хоормог"],
     "answer": "Цагаан идээ"
   }
