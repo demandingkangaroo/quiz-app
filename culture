@@ -1,7 +1,7 @@
 [
   {
     "question": "Энэ аль улсын далбаа вэ?",
-    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/culture1.jpeg,
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/culture1.jpeg",
     "options": ["Их Британи", "Австрали", "АНУ", "Канад"],
     "answer": "АНУ"
   },
