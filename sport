@@ -1,55 +1,55 @@
 [
   {
     "question": "Which team did Kobe Bryant spend his entire career with?",
-    "img_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/sport1.jpeg",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/sport1.jpeg",
     "options": ["Chicago Bulls", "Los Angeles Clippers", "Los Angeles Lakers", "New York Knicks"],
     "answer": "Los Angeles Lakers"
   },
   {
     "question": "Which NBA player is nicknamed \"The Greek Freak\"?",
-    "img_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/sport2.jpeg",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/sport2.jpeg",
     "options": ["Kristaps Porziņģis", "Giannis Antetokounmpo", "Domantas Sabonis", "Luka Dončić"],
     "answer": "Giannis Antetokounmpo"
   },
   {
     "question": "Which team drafted Luka Dončić before trading him to the Mavericks?",
-    "img_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/sport3.jpeg",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/sport3.jpeg",
     "options": ["Atlanta Hawks", "Sacramento Kings", "Phoenix Suns", "Orlando Magic"],
     "answer": "Atlanta Hawks"
   },
   {
     "question": "Who is famous for wearing the number 23 jersey for the Chicago Bulls?",
-    "img_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/sport4.jpeg",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/sport4.jpeg",
     "options": ["LeBron James", "Kobe Bryant", "Michael Jordan", "Kevin Durant"],
     "answer": "Michael Jordan"
   },
   {
     "question": "What is the name of the team from Los Angeles with purple and gold colors?",
-    "img_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/sport5.jpeg",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/sport5.jpeg",
     "options": ["Chicago Bulls", "Miami Heat", "Los Angeles Lakers", "New York Knicks"],
     "answer": "Los Angeles Lakers"
   },
   {
     "question": "How many championships did Michael Jordan win?",
-    "img_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/sport6.jpeg",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/sport6.jpeg",
     "options": ["5", "7", "6", "4"],
     "answer": "6"
   },
   {
     "question": "What team does Giannis Antetokounmpo play for?",
-    "img_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/sport7.jpeg",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/sport7.jpeg",
     "options": ["Miami Heat", "Boston Celtics", "Milwaukee Bucks", "Denver Nuggets"],
     "answer": "Milwaukee Bucks"
   },
   {
     "question": "What number does Stephen Curry usually wear?",
-    "img_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/sport8.jpeg",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/sport8.jpeg",
     "options": ["6", "11", "30", "3"],
     "answer": "30"
   },
   {
     "question": "Which player is known as “The Black Mamba”?",
-    "img_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/sport9.jpeg",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/sport9.jpeg",
     "options": ["Michael Jordan", "Kobe Bryant", "Allen Iverson", "Tracy McGrady"],
     "answer": "Kobe Bryant"
   }
