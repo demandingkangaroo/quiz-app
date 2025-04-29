@@ -26,7 +26,7 @@
   {
     "question": "Энэ ямар амттан бэ?",
     "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/food5.jpeg",
-    "options": ["Мөхөөлдөс", "Тосон боов", "Хийжүүлсэн бялуу", "Шоколадан кекс"],
+    "options": ["Мөхөөлдөс", "Хэвийн боов", "Хийжүүлсэн бялуу", "Шоколадан кекс"],
     "answer": "Хэвийн боов"
   },
   {
