@@ -1,55 +1,55 @@
 [
   {
     "question": "Энэ аль улсын далбаа вэ?",
-    "img_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/culture1.jpeg,
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/culture1.jpeg,
     "options": ["Их Британи", "Австрали", "АНУ", "Канад"],
     "answer": "АНУ"
   },
   {
     "question": "Энэ аль улсын далбаа вэ?",
-    "img_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/culture2.jpeg",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/culture2.jpeg",
     "options": ["Итали", "Нидерланд", "Франц", "ОХУ"],
     "answer": "Франц"
   },
   {
     "question": "Энэ аль улсын далбаа вэ?",
-    "img_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/culture3.jpeg",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/culture3.jpeg",
     "options": ["Аргентин", "Бразил", "Мексик", "Колумб"],
     "answer": "Бразил"
   },
   {
     "question": "Энэ аль улсын далбаа вэ?",
-    "img_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/culture4.jpeg",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/culture4.jpeg",
     "options": ["Серби", "Словак", "ОХУ", "Хорват"],
     "answer": "ОХУ"
   },
   {
     "question": "Энэ аль улсын далбаа вэ?",
-    "img_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/culture5.jpeg",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/culture5.jpeg",
     "options": ["Энэтхэг", "Бангладеш", "Пакистан", "Непал"],
     "answer": "Энэтхэг"
   },
   {
     "question": "Энэ аль улсын далбаа вэ?",
-    "img_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/culture6.jpeg",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/culture6.jpeg",
     "options": ["Итали", "Ирланд", "Мексик", "Франц"],
     "answer": "Итали"
   },
   {
     "question": "Энэ аль улсын далбаа вэ?",
-    "img_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/culture7.jpeg",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/culture7.jpeg",
     "options": ["Бельги", "Герман", "Австри", "Нидерланд"],
     "answer": "Герман"
   },
   {
     "question": "Энэ аль улсын далбаа вэ?",
-    "img_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/culture8.jpeg",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/culture8.jpeg",
     "options": ["Хятад", "Япон", "Өмнөд Солонгос", "Вьетнам"],
     "answer": "Япон"
   },
   {
     "question": "Энэ аль улсын далбаа вэ?",
-    "img_url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/culture9.jpeg",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/culture9.jpeg",
     "options": ["Монгол", "Казахстан", "Хятад", "Тайланд"],
     "answer": "Монгол"
   }
