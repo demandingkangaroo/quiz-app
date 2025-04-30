@@ -1,56 +1,56 @@
 [
   {
-    "question": "Which team did Kobe Bryant spend his entire career with?",
+    "question": "Кобе Брайант ямар багт ихэнх карьерынхаа туршид тоглосон бэ?",
     "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/sport1.jpeg",
-    "options": ["Chicago Bulls", "Los Angeles Clippers", "Los Angeles Lakers", "New York Knicks"],
-    "answer": "Los Angeles Lakers"
+    "options": ["Чикаго Буллс", "Лос Анжелес Клипперс", "Лос Анжелес Лейкерс", "Нью-Йорк Никс"],
+    "answer": "Лос Анжелес Лейкерс"
   },
   {
-    "question": "Which NBA player is nicknamed \"The Greek Freak\"?",
+    "question": "“Greak Freak” хочит тоглогч хэн бэ?",
     "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/sport2.jpeg",
-    "options": ["Kristaps Porziņģis", "Giannis Antetokounmpo", "Domantas Sabonis", "Luka Dončić"],
-    "answer": "Giannis Antetokounmpo"
+    "options": ["Кристапс Порзингис", "Жаннис Антетокумпо", "Домантас Сабонис", "Лука Дончич"],
+    "answer": "Жаннис Антетокумпо"
   },
   {
-    "question": "Which team drafted Luka Dončić before trading him to the Mavericks?",
+    "question": "Лука Дончичийг анх ямар баг сонгоод Даллас Маверикс руу наймаалсан бэ?",
     "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/sport3.jpeg",
-    "options": ["Atlanta Hawks", "Sacramento Kings", "Phoenix Suns", "Orlando Magic"],
-    "answer": "Atlanta Hawks"
+    "options": ["Атланта Хоукс", "Сакраменто Кингс", "Финикс Санз", "Орландо Мэжик"],
+    "answer": "Атланта Хоукс"
   },
   {
-    "question": "Who is famous for wearing the number 23 jersey for the Chicago Bulls?",
+    "question": "Чикаго Буллс багт 23 дугаартай тоглож алдаршсан тоглогч хэн бэ?",
     "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/sport4.jpeg",
-    "options": ["LeBron James", "Kobe Bryant", "Michael Jordan", "Kevin Durant"],
-    "answer": "Michael Jordan"
+    "options": ["Леброн Жэймс", "Кобе Брайант", "Майкл Жордан", "Кевин Дюрант"],
+    "answer": "Майкл Жордан"
   },
   {
-    "question": "What is the name of the team from Los Angeles with purple and gold colors?",
+    "question": "Нил ягаан ба шар өнгөтэй багийн нэр юу вэ?",
     "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/sport5.jpeg",
-    "options": ["Chicago Bulls", "Miami Heat", "Los Angeles Lakers", "New York Knicks"],
-    "answer": "Los Angeles Lakers"
+    "options": ["Чикаго Буллс", "Майами Хийт", "Лос Анжелес Лейкерс", "Нью-Йорк Никс"],
+    "answer": "Лос Анжелес Лейкерс"
   },
   {
-    "question": "How many championships did Michael Jordan win?",
+    "question": "Майкл Жордан хэдэн удаа аварга болсон бэ?",
     "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/sport6.jpeg",
     "options": ["5", "7", "6", "4"],
     "answer": "6"
   },
   {
-    "question": "What team does Giannis Antetokounmpo play for?",
+    "question": "Жаннис Антетокумпо ямар багт тоглодог вэ?",
     "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/sport7.jpeg",
-    "options": ["Miami Heat", "Boston Celtics", "Milwaukee Bucks", "Denver Nuggets"],
-    "answer": "Milwaukee Bucks"
+    "options": ["Майами Хийт", "Бостон Селтикс", "Милуоки Бакс", "Денвер Наггетс"],
+    "answer": "Милуоки Бакс"
   },
   {
-    "question": "What number does Stephen Curry usually wear?",
+    "question": "Стефен Карри ихэвчлэн ямар дугаарыг өмсдөг вэ?",
     "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/sport8.jpeg",
     "options": ["6", "11", "30", "3"],
     "answer": "30"
   },
   {
-    "question": "Which player is known as “The Black Mamba”?",
+    "question": "“Хар Мамба” хочит тоглогч хэн бэ?",
     "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/sport9.jpeg",
-    "options": ["Michael Jordan", "Kobe Bryant", "Allen Iverson", "Tracy McGrady"],
-    "answer": "Kobe Bryant"
+    "options": ["Майкл Жордан", "Кобе Брайант", "Аллен Айверсон", "Трейси МакГрейди"],
+    "answer": "Кобе Брайант"
   }
 ]
