@@ -1,0 +1,56 @@
+[
+  {
+    "question": "Дэлхийн хамгийн өндөр уул аль нь вэ?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/geo1.jpeg",
+    "options": ["Килиманжаро", "Эверест", "Канченжунга", "Маккинли"],
+    "answer": "Эверест"
+  },
+  {
+    "question": "Аль улс нь хамгийн их арлуудтай вэ?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/geo2.jpeg",
+    "options": ["Япон", "Филиппин", "Индонез", "Малайз"],
+    "answer": "Индонез"
+  },
+  {
+    "question": "Дэлхийн хамгийн урт гол аль нь вэ?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/geo3.jpeg",
+    "options": ["Амазон", "Янцзы", "Нил", "Миссисипи"],
+    "answer": "Нил"
+  },
+  {
+    "question": "Аль тив нь хамгийн их улстай вэ?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/geo4.jpeg",
+    "options": ["Ази", "Африк", "Европ", "Өмнөд Америк"],
+    "answer": "Африк"
+  },
+  {
+    "question": "Дэлхийн хамгийн том цөл аль нь вэ?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/geo5.jpeg",
+    "options": ["Сахара", "Гоби", "Антарктидын цөл", "Атакама"],
+    "answer": "Антарктидын цөл"
+  },
+  {
+    "question": "Хамгийн жижиг улс аль нь вэ?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/geo6.jpeg",
+    "options": ["Монако", "Сан Марино", "Ватикан", "Лихтенштейн"],
+    "answer": "Ватикан"
+  },
+  {
+    "question": "Дэлхийн хамгийн том нуур аль нь вэ?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/geo7.jpeg",
+    "options": ["Байгаль нуур", "Каспийн тэнгис", "Танганьика нуур", "Виктория нуур"],
+    "answer": "Каспийн тэнгис"
+  },
+  {
+    "question": "Дэлхийн хамгийн гүн нуур аль нь вэ?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/geo8.jpeg",
+    "options": ["Байгаль нуур", "Танганьика нуур", "Каспийн тэнгис", "Виктория нуур"],
+    "answer": "Байгаль нуур"
+  },
+  {
+    "question": "Хамгийн олон хүн амтай хот аль нь вэ?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/geo9.jpeg",
+    "options": ["Нью-Йорк", "Токио", "Шанхай", "Мумбай"],
+    "answer": "Токио"
+  }
+]
