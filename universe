@@ -1,0 +1,56 @@
+[
+  {
+    "question": "Бид ямар гараг дээр амьдардаг вэ?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/uni1.jpeg",
+    "options": ["Ангараг", "Сугар", "Дэлхий", "Санчир"],
+    "answer": "Дэлхий"
+  },
+  {
+    "question": "Сар гэж юу вэ?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/uni2.jpeg",
+    "options": ["Гараг", "Од", "Сүүлт од", "Байгалийн дагуул"],
+    "answer": "Байгалийн дагуул"
+  },
+  {
+    "question": "Ямар гараг цагирагтай вэ?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/uni3.jpeg",
+    "options": ["Дэлхий", "Ангараг", "Санчир", "Далай ван"],
+    "answer": "Санчир"
+  },
+  {
+    "question": "Эдгээрээс аль нь гараг биш вэ?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/uni4.jpeg",
+    "options": ["Дөлгөөн", "Дэлхий", "Сар", "Ангараг"],
+    "answer": "Сар"
+  },
+  {
+    "question": "Нарны аймагт хэдэн гараг байдаг вэ?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/uni5.jpeg",
+    "options": ["5", "7", "8", "10"],
+    "answer": "8"
+  },
+  {
+    "question": "Сансрын хөлөг дэлхийгээс гарч явахдаа юуг даван гардаг вэ?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/uni6.jpeg",
+    "options": ["Далайн ус", "Агаар мандал", "Уул", "Үүл"],
+    "answer": "Агаар мандал"
+  },
+  {
+    "question": "Аль гараг дээр ус шингэн хэлбэрээр оршдог вэ?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/uni7.jpeg",
+    "options": ["Ангараг", "Сугар", "Дэлхий", "Буд"],
+    "answer": "Дэлхий"
+  },
+  {
+    "question": "Дэлхий нарыг тойроход хэр хугацаа шаарддаг вэ?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/uni8.jpeg",
+    "options": ["1 өдөр", "30 өдөр", "1 жил", "100 хоног"],
+    "answer": "1 жил"
+  },
+  {
+    "question": "Далай ван ямар өнгөтэй харагддаг вэ?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/uni9.jpeg",
+    "options": ["Улаан", "Цагаан", "Хөх", "Саарал"],
+    "answer": "Хөх"
+  }
+]
