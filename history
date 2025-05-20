@@ -1,0 +1,56 @@
+[
+  {
+    "question": "Чингис хаан аль улсын хаан байсан бэ?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/h1.jpeg",
+    "options": ["Монгол", "Хятад", "Орос", "Япон"],
+    "answer": "Монгол"
+  },
+  {
+    "question": "Дэлхийн II дайн хэдэн онд эхэлсэн бэ?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/h2.jpeg",
+    "options": ["1939", "1914", "1945", "1920"],
+    "answer": "1939"
+  },
+  {
+    "question": "Пирамид аль улсад байдаг вэ?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/h3.jpeg",
+    "options": ["Египет", "Грек", "Ром", "Турк"],
+    "answer": "Египет"
+  },
+  {
+    "question": "Америкийн анхны ерөнхийлөгч хэн бэ?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/h4.jpeg",
+    "options": ["Жорж Вашингтон", "Авраам Линкольн", "Барак Обама", "Жо Байден"],
+    "answer": "Жорж Вашингтон"
+  },
+  {
+    "question": "Титаник хэзээ живсэн бэ?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/h5.jpeg",
+    "options": ["1912", "1900", "1920", "1930"],
+    "answer": "1912"
+  },
+  {
+    "question": "Монгол улс хэдэн онд тусгаар тогтнолоо зарласан бэ?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/h6.jpeg",
+    "options": ["1911", "1921", "1990", "1945"],
+    "answer": "1911"
+  },
+  {
+    "question": "Ромын эзэнт гүрний нийслэл аль хот байсан бэ?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/h7.jpeg",
+    "options": ["Ром", "Афин", "Парис", "Берлин"],
+    "answer": "Ром"
+  },
+  {
+    "question": "Дэлхийн I дайн хэдэн онд эхэлсэн бэ?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/h8.jpeg",
+    "options": ["1914", "1939", "1920", "1900"],
+    "answer": "1914"
+  },
+  {
+    "question": "Шарль де Голль аль улсын удирдагч байсан бэ?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/h9.jpeg",
+    "options": ["Франц", "Герман", "Испани", "Итали"],
+    "answer": "Франц"
+  }
+]
