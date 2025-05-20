@@ -1,0 +1,56 @@
+[
+  {
+    "question": "Apple компанийг хэн үүсгэн байгуулсан бэ?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/tech1.jpeg",
+    "options": ["Стив Жобс", "Билл Гейтс", "Марк Цукерберг", "Илон Маск"],
+    "answer": "Стив Жобс"
+  },
+  {
+    "question": "Google гэж юу вэ?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/tech2.jpeg",
+    "options": ["Хайлтын систем", "Гар утас", "Компьютер", "Видео тоглоом"],
+    "answer": "Хайлтын систем"
+  },
+  {
+    "question": "Интернетийг хэзээ анх үүсгэсэн бэ?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/tech3.jpeg",
+    "options": ["1969 онд", "2000 онд", "1985 онд", "1995 онд"],
+    "answer": "1969 онд"
+  },
+  {
+    "question": "Microsoft компанийг хэн үүсгэн байгуулсан бэ?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/tech4.jpeg",
+    "options": ["Билл Гейтс", "Стив Жобс", "Ларри Пэйж", "Стив Возняк"],
+    "answer": "Билл Гейтс"
+  },
+  {
+    "question": "Facebook платформыг хэн бүтээсэн бэ?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/tech5.jpeg",
+    "options": ["Марк Цукерберг", "Илон Маск", "Билл Гейтс", "Стив Жобс"],
+    "answer": "Марк Цукерберг"
+  },
+  {
+    "question": "Электрон имэйлийг хэзээ ашиглаж эхэлсэн бэ?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/tech6.jpeg",
+    "options": ["1971 онд", "1990 онд", "2000 онд", "1985 онд"],
+    "answer": "1971 онд"
+  },
+  {
+    "question": "YouTube платформыг хэн үүсгэн байгуулсан бэ?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/tech7.jpeg",
+    "options": ["Чад Хёрли", "Билл Гейтс", "Стив Жобс", "Марк Цукерберг"],
+    "answer": "Чад Хёрли"
+  },
+  {
+    "question": "WhatsApp нь ямар төрлийн апп вэ?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/tech8.jpeg",
+    "options": ["Зурвас илгээх апп", "Тоглоом", "Видео үзэх апп", "Мэдээлэл хадгалах апп"],
+    "answer": "Зурвас илгээх апп"
+  },
+  {
+    "question": "Wi-Fi-г хэн нэвтрүүлсэн бэ?",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/tech9.jpeg",
+    "options": ["Хок Танака", "Томас Эдисон", "Александр Грэм Белл", "Никола Тесла"],
+    "answer": "Хок Танака"
+  }
+]
