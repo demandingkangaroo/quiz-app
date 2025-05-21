@@ -25,31 +25,31 @@
   },
   {
     "question": "Шувуу нисдэг. Туулай яадаг вэ?",
-    "img-url": "https://example.com/images/rabbit.jpg",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/l5.jpeg",
     "options": ["Үсэрдэг", "Нисдэг", "Сэлдэг", "Унадаг"],
     "answer": "Үсэрдэг"
   },
   {
     "question": "1+1 хэдтэй тэнцүү вэ?",
-    "img-url": "https://example.com/images/math.jpg",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/l6.jpeg",
     "options": ["2", "3", "1", "4"],
     "answer": "2"
   },
   {
     "question": "Хэрвээ та 8 цагт унтсан бол 8 цаг унтаад хэдэн цагт сэрэх вэ?",
-    "img-url": "https://example.com/images/clock.jpg",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/l7.jpeg",
     "options": ["4", "8", "16", "2"],
     "answer": "4"
   },
   {
     "question": "Хоёр гар нь зүүн зүгийг зааж байвал толгой аль зүг рүү харсан байх вэ?",
-    "img-url": "https://example.com/images/direction.jpg",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/l8.jpeg",
     "options": ["Урд", "Хойд", "Зүүн", "Баруун"],
     "answer": "Урд"
   },
   {
     "question": "Нэг хүн бүх зүйлээ урагш харж хийдэг. Гэтэл гутлаа өмсөхдөө арагшаа гэдийдэг. Яагаад?",
-    "img-url": "https://example.com/images/shoes.jpg",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/l9.jpeg",
     "options": ["Тэнцвэрээ хадгалах гэж", "Гутал нь ард байсан", "Харахын тулд", "Зүгээр л дадал болсон"],
     "answer": "Тэнцвэрээ хадгалах гэж"
   }
