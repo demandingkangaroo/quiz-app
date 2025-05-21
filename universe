@@ -1,7 +1,7 @@
 [
   {
     "question": "Бид ямар гараг дээр амьдардаг вэ?",
-    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/uni1.jpeg",
+    "img-url": "https://raw.githubusercontent.com/demandingkangaroo/quiz-app/refs/heads/main/uni1.jpg",
     "options": ["Ангараг", "Сугар", "Дэлхий", "Санчир"],
     "answer": "Дэлхий"
   },
